@@ -2,7 +2,7 @@
 
 ## Credits
 
-tomnomnom/waybackurls
+[tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
 
 ## Description
 
@@ -11,13 +11,13 @@ A port of waybackurls using `rust`.
 ## Usage
 
 ```sh
-spinner "domain"
+urlspinner "domain"
 ```
 
 or via pipe pattern:
 
 ```sh
-echo "domain" | spinner
+echo "domain" | urlspinner
 ```
 
 The other configuration files, follow the base of `waybackurls`.
