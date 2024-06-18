@@ -1,4 +1,4 @@
-# Spinner
+# URL Spinner
 
 ## Credits
 
